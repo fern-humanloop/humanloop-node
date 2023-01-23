@@ -1,0 +1,1 @@
+export { UpdateModelConfigResponse } from "./UpdateModelConfigResponse";
